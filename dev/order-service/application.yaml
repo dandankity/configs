@@ -1,4 +1,1 @@
-server:
-  port: 9085
-
 message: hello config server
